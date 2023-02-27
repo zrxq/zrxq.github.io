@@ -1,17 +1,45 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
+<!doctype html>
+<html lang="en">
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
 	<link rel="shortcut icon" href="/icons/favicon-32x32.png">    
-    <link rel="icon" type="image/x-icon" href="/icons/favicon.ico" sizes="any" />    
-    <link rel="icon" type="image/svg+xml" href="/icons/icon.svg" />
-    <link rel="mask-icon" href="/icons/mask-icon.svg" color="#FF293C" />
+	<link rel="icon" type="image/x-icon" href="/icons/favicon.ico" sizes="any" />    
+	<link rel="icon" type="image/svg+xml" href="/icons/icon.svg" />
+	<link rel="mask-icon" href="/icons/mask-icon.svg" color="#FF293C" />
 	<link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png" />
 	<link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png" />
 	<link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
-    <title>Zoreslav Khimich</title>
-  </head>
-  <body>
-    <h1>Hello World!</h1>
-  </body>
+
+	<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@1.*/css/pico.min.css">
+
+	<title>Zoreslav Khimich</title>
+	<meta name="description" content="Zoreslav Khimich's personal web site.">
+
+</head>
+<body>
+	<main class="container">
+		<nav>
+			<ul>
+				<li><h3>Zoreslav Khimich</h3></li>
+			</ul>
+			<ul>
+				<li>
+					<details role="list" dir="rtl">
+						<summary aria-haspopup="listbox" role="link" class="secondary">Theme</summary>
+						<ul role="listbox">
+							<li><a href="#" data-theme-switcher="auto">Auto</a></li>
+							<li><a href="#" data-theme-switcher="light">Light</a></li>
+							<li><a href="#" data-theme-switcher="dark">Dark</a></li>
+						</ul>
+					</details>
+				</li>
+			</ul>
+		</nav>
+
+	</main>
+	<script src="../js/minimal-theme-switcher.js"></script>
+</body>
 </html>
