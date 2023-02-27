@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>mask-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mask-SVG" fill="#3B3B3B" fill-rule="nonzero">
+            <path d="M90,0 C139.705627,-9.13077564e-15 180,40.2943725 180,90 C180,139.705627 139.705627,180 90,180 C40.2943725,180 6.08718376e-15,139.705627 0,90 C-6.08718376e-15,40.2943725 40.2943725,9.13077564e-15 90,0 Z M127.112922,162.196539 L127.257812,113.599142 L127.257812,27.2371508 L114.013271,16.8258053 L114.013271,65.5370979 L52.1448908,16.9032431 L52.1448908,103.265235 L127.112922,162.196539 Z M65.3894319,96.8322516 L65.3894319,44.1589172 L113.868381,82.26753 L113.868381,134.940864 L65.3894319,96.8322516 Z M77.0641967,158.539062 L52,135.308831 L52,158.539062 L77.0641967,158.539062 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
