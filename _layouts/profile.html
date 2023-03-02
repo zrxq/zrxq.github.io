@@ -1,14 +1,23 @@
 ---
 layout: default
 ---
-
-<header class="container">
+<main class="container">
+<section>
+<img src="/img/profile-photo.jpg" id="profile-photo">
 <hgroup>
 	<h1>{{ page.title }}</h1>
 	<h2>{{ page.subtitle }}</h2>
 </hgroup>
-</header>
-<main class="container">
+	<nav>
+		<ul>
+			<li><a href="#">email</a></li>			
+			<li><a href="#">github</a></li>
+			<li><a href="#">whatever</a></li>
+		</ul>
+	</nav>
+</section>
+<section>
 {{ content }}
-</main>
+</section>
 <script src="../js/minimal-theme-switcher.js"></script>
+</main>

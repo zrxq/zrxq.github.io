@@ -1,0 +1,18 @@
+
+{::nomarkdown}
+</section>
+<section id="projects">
+<div class="grid">
+{% for project in site.data.projects %}
+  <div class="card">
+      <img class="appicon" src="{{ project.pic }}" />
+      <div>
+        <h4>{{ project.name }}</h4>
+        <a href="{{ project.url }}">Link</a>
+      </div>
+  </div>
+{% endfor %}
+</div>
+</section>
+<section>
+{:/nomarkdown}
