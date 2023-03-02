@@ -1,17 +1,33 @@
-- name: Leam / voic.es
+- name: Leam • voic.es
   url: https://leam.xyz
-  pic: http://zoreslav.com/static/images/voices@2x.png
+  pic: img/projects/voices@2x.png
+  desc: >-
+    Voices [was](https://leam.xyz) a live video streaming platform that allowed creators to monetize their work.
+
+
+    I built a [stream](https://getstream.io)-powered in-app chat with a highly customized UI, using **SwiftUI** and **Combine**. 
+    I also created several custom transitions for the app.
 
 - name: Seeking Alpha
   url: https://apps.apple.com/us/app/seeking-alpha-news-analysis/id552799694
-  pic: http://zoreslav.com/static/images/seekingalpha@2x.png
+  pic: img/projects/seekingalpha@2x.png
+  desc: >-
+    I was responsible for 
+    a complete rewrite of [Seeking Alpha iOS app](https://apps.apple.com/us/app/seeking-alpha-news-analysis/id552799694).
+    I also worked on a team that designed multiplatform web-to-native bridging APIs, as well as developed a companion 
+    **watchOS app** and Home Screen **widgets**.
+  accolades: Peaked **1st** in **Finance**<br />in the US App Store
 
 - name: Kasta
   url: https://apps.apple.com/us/app/kasta-модний-маркетплейс/id547622923
-  pic: http://zoreslav.com/static/images/kasta@2x.png
+  pic: img/projects/kasta@2x.png
+  border: true
+  desc: >-
+    Hey there people.
+  accolades: Achieved **#1** in **Shopping**<br />in Ukrainian App Store
 
 - name: coins.ph
   url: https://itunes.apple.com/ph/app/coins-ph-load-bills-bitcoin/id972324049?mt=8
-  pic: http://zoreslav.com/static/images/coins-wallet@2x.png
+  pic: img/projects/coins-wallet@2x.png
 
-  
+

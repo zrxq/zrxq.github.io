@@ -2,17 +2,18 @@
 {::nomarkdown}
 </section>
 <section id="projects">
-<div class="grid">
-{% for project in site.data.projects %}
-  <div class="card">
-      <img class="appicon" src="{{ project.pic }}" />
+  <div class="grid">
+    {% for project in site.data.projects %}
+    <div class="card">
+      <img class="appicon{% if project.border %} bordered{% endif %}" src="{{ project.pic }}" />
       <div>
-        <h4>{{ project.name }}</h4>
-        <a href="{{ project.url }}">Link</a>
+        <h4 style="display: inline-block;">{{ project.name }}</h4>
+        <small>{{ project.desc | markdownify }}</small>
+        {% if project.accolades %}<div class="accolades"><small>{{ project.accolades | markdownify }}</small></div>{% endif %}
       </div>
+    </div>
+    {% endfor %}
   </div>
-{% endfor %}
-</div>
 </section>
 <section>
 {:/nomarkdown}
