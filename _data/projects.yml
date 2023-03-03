@@ -7,9 +7,9 @@
 
 
     Working as a contract iOS developer I helped to build several app features, mostly related to the app UI and workout audio guidance.
-  accolades: Over 50 million users
+  accolades: Over 50 million users<br />(acc. to the app)
 
-- name: Leam • voic.es
+- name: Leam • Voices
   url: https://leam.xyz
   pic: img/projects/voices@2x.png
   desc: >-
@@ -42,7 +42,7 @@
     During my time in Kasta, the company significantly strengthened its standing on the mobile market.
   accolades: Achieved \#1 in Shopping<br />in Ukrainian App Store
 
-- name: coins.ph
+- name: Coins
   url: https://itunes.apple.com/ph/app/coins-ph-load-bills-bitcoin/id972324049?mt=8
   pic: img/projects/coins-wallet@2x.png
   desc: >-
@@ -50,10 +50,10 @@
     Their mobile wallet empowers customers and small businesses by providing direct access to financial services.
 
 
-    I built [Coins iOS](https://apps.apple.com/ph/app/coins-buy-bitcoin-crypto/id972324049) crypto wallet from the grounds up. 
+    I programmed the [iOS crypto wallet app](https://apps.apple.com/ph/app/coins-buy-bitcoin-crypto/id972324049) from scratch.
 
 
-  accolades: Reached top 3 in Finance<br />in the Philippines
+  accolades: Reached Top 3 in Finance<br />in the Philippines
 
 - name: Gipis
   pic: img/projects/gipis@2x.png  
@@ -63,5 +63,5 @@
     It allowed to create and execute a personalized and adaptable training plan for runners.
 
 
-    I worked on a major UI revamp for the app, as well as extending its functionality, while supporting the existing codebase.
+    I worked on a major UI revamp for the app, as well as on improving it's core functionality.
   accolades: Peaked \#1 in Sports<br />in the US App Store
