@@ -28,7 +28,7 @@
     I also worked on a team that designed multiplatform web-to-native bridging APIs, as well as developed a companion 
     **watchOS app** and Home Screen **widgets**. Rolling out the new app led to significant improvements in user feedback, 
     reviews & ratings. 
-  accolades: Peaked \#1 in Finance<br />in the US App Store
+  accolades: Peaked No.1 in Finance<br />in the US App Store
 
 - name: Kasta
   url: https://apps.apple.com/us/app/kasta-модний-маркетплейс/id547622923
@@ -40,7 +40,7 @@
     Lead a team of six mobile developers. 
     I also developed the data-driven component foundation of the [iOS app](https://apps.apple.com/ua/app/kasta-покупки-одяг-та-взуття/id547622923).
     During my time in Kasta, the company significantly strengthened its standing on the mobile market.
-  accolades: Achieved \#1 in Shopping<br />in Ukrainian App Store
+  accolades: Achieved No.1 in Shopping<br />in Ukrainian App Store
 
 - name: Coins
   url: https://itunes.apple.com/ph/app/coins-ph-load-bills-bitcoin/id972324049?mt=8
@@ -63,5 +63,42 @@
     It allowed to create and execute a personalized and adaptable training plan for runners.
 
 
-    I worked on a major UI revamp for the app, as well as on improving it's core functionality.
-  accolades: Peaked \#1 in Sports<br />in the US App Store
+    I worked on a major UI revamp for the app, as well as on improving its core functionality.
+  accolades: Peaked No.1 in Sports<br />in the US App Store
+
+
+
+- name: Lapka
+  pic: img/projects/lapka-pem@2x.jpg
+  desc: >-
+    Lapka was a hardware startup that built connected personal sensor devices.
+
+
+    I developed several features for their iOS apps, namely geolocation and social feature for the Personal Environment Monitor and a GPU-accelerated video stream filter for the Blood Alcohol Monitor.
+
+
+    In 2015 Lapka was [acquired by Airbnb](https://www.theverge.com/2015/9/29/9419387/airbnb-lapka-acquisition).
+
+- name: RIDERS
+  is_odd: true
+  pic: img/projects/riders@2x.jpg
+  desc: >-
+    [RIDERS](https://riders.co) is an Extreme Sports App that allows you to learn new tricks, improve your skills and share your progress
+    with the global Riders community.
+
+
+    Working as a freelance iOS developer, I helped to build
+    several features for the [iOS app](https://apps.apple.com/us/app/riders-bmx-skateboard-snowboard/id474209047).
+  # accolades: Featured on the App Store
+    
+
+- name: Tricky Letters
+  pic: img/projects/tricky-letters@2x.png
+  desc: >-
+      Tricky Letters was a cute iOS app with no other purpose than to entertain its users with daily inspirational quotes and its quirky character.
+
+  
+      I programmed the app from scratch. The most technically challenging part was to get all the layered animations to run smoothly on the constrained iOS hardware available back in the day.
+
+
+      Here's a [9to5mac review](https://9to5mac.com/2013/09/29/review-tricky-letters-serves-up-daily-messages-to-keep-you-inspired/) of the app.
