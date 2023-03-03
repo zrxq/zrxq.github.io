@@ -2,11 +2,12 @@
   url: https://fitcoach.fit
   pic: img/projects/fitcoach@2x.png
   desc: >-
-    [Fitcoach for iOS](https://apps.apple.com/us/app/fitcoach-daily-fitness-planner/id1438092960) is a popular fitness app.
+    [Fitcoach for iOS](https://apps.apple.com/us/app/fitcoach-daily-fitness-planner/id1438092960) is a popular 
+    health & fitness mobile app. 
 
 
-    As a contract iOS developer, I helped to build several app features.
-  accolades: Over **50 million** users worldwide<br /><small>acc. promotional materials</small>
+    Working as a contract iOS developer I helped to build several app features, mostly related to the app UI and workout audio guidance.
+  accolades: Over **50 million** users
 
 - name: Leam • voic.es
   url: https://leam.xyz
@@ -35,9 +36,9 @@
   border: true
   desc: >-
     As a mobile development lead I was involved in all decisions 
-    concering mobile apps, including feature planning, product & UI design, app development, QA and delivery. 
-    Lead a team of up to six mobile developers. 
-    Architected and developed the data-driven component foundation of the [iOS app](https://apps.apple.com/ua/app/kasta-покупки-одяг-та-взуття/id547622923).
+    concering mobile apps, including feature planning, product & UI design, app development, QA, and app delivery. 
+    Lead a team of six mobile developers. 
+    I also developed the data-driven component foundation of the [iOS app](https://apps.apple.com/ua/app/kasta-покупки-одяг-та-взуття/id547622923).
     During my time in Kasta, the company significantly strengthened its standing on the mobile market.
   accolades: Achieved **#1** in **Shopping**<br />in **Ukrainian** App Store
 
@@ -46,10 +47,11 @@
   pic: img/projects/coins-wallet@2x.png
   desc: >-
     [Coins](https://coins.ph) is one of the most popular crypto brands in South-East Asia.  
-    Their mobile wallet empowers customers and small businesses by giving them direct access to financial services.
+    Their mobile wallet empowers customers and small businesses by providing direct access to financial services.
 
 
-    I built the initial version of the [iOS app](https://apps.apple.com/ph/app/coins-buy-bitcoin-crypto/id972324049) from the grounds up.
+    I built [Coins iOS](https://apps.apple.com/ph/app/coins-buy-bitcoin-crypto/id972324049) crypto wallet from the grounds up. 
+
 
   accolades: Reached **top 3** in **Finance**<br />in **Philippines**
 
@@ -57,8 +59,9 @@
   pic: img/projects/gipis@2x.png  
   border: true
   desc: >-
-    Gipis [was](https://www.crunchbase.com/organization/gipis) a highly popular marathon running coach app and mobile health platform. 
+    Gipis [was](https://www.crunchbase.com/organization/gipis) a highly popular marathon running coach app. 
+    It allowed to create and execute a personalized and adaptable training plan for runners.
 
 
-    I worked on a major UI revamp for the iOS app, as well as extending its functionality, and supporting the existing one.
+    I worked on a major UI revamp for the iOS app, as well as extending its functionality, while supporting the existing codebase.
   accolades: Peaked **#1** in **Sports**<br />in the **US** App Store

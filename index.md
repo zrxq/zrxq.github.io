@@ -1,6 +1,6 @@
 ---
 title: Zoreslav Khimich
-subtitle: iOS App Developer and Lead Mobile Engineer
+subtitle: iOS App Developer and Mobile Lead
 layout: profile
 ---
 
