@@ -8,7 +8,7 @@ layout: profile
 
 Hey, I'm Zoreslav, and I'm an iOS app developer with over a decade of experience building and shipping top quality mobile apps. 
 
-Before making iOS app development my speciality, I've been involved in game development, [consumer 3D technologies](https://www.crunchbase.com/organization/mydeco), full stack web development, and at some point led a development team responsible for creating [Interpol e-Passport](https://en.wikipedia.org/wiki/Interpol_Travel_Document) manufacturing software.
+Before making iOS app development my speciality, I've been involved in game development, [consumer 3D tech](https://www.crunchbase.com/organization/mydeco), full stack web development, and at some point led a development team responsible for creating [Interpol e-Passport](https://en.wikipedia.org/wiki/Interpol_Travel_Document) manufacturing software.
 
 #### Previous Projects
 Since 2012 I worked on over a dozen **iOS** apps, some of which are listed below.

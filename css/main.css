@@ -82,6 +82,10 @@
 	font-size: 0.75em;
 }
 
+#projects .accolades strong {
+	font-weight: 600;
+}
+
 @media (min-width: 758px) {
 
 	#projects .grid {
