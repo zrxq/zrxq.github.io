@@ -10,9 +10,20 @@ layout: default
 </hgroup>
 	<nav>
 		<ul>
-			<li><a href="#">email</a></li>			
-			<li><a href="#">github</a></li>
-			<li><a href="#">whatever</a></li>
+			<li><a href="mailto:{{ site.email }}">Mail</a></li>			
+			<li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
+			<li><a href="https://linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a></li>
+			<li>
+			<details role="list" dir="rtl">
+			  <summary aria-haspopup="listbox" role="link">Theme</summary>
+			  <ul role="listbox">
+			    <li><a href="#" data-theme-switcher="auto">Auto</a></li>
+			    <li><a href="#" data-theme-switcher="light">Light</a></li>
+			    <li><a href="#" data-theme-switcher="dark">Dark</a></li>
+			  </ul>
+			</details>
+			</li>
+
 		</ul>
 	</nav>
 </section>
