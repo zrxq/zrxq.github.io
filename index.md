@@ -4,15 +4,27 @@ subtitle: iOS App Developer and Mobile Lead
 layout: profile
 ---
 
+{::options parse_block_html="true" /}
+
+<section>
+
 #### About
+Hey, I'm Zoreslav. I'm a mobile software engineer with over a decade of experience building and shipping top quality apps for Apple platforms. 
 
-Hey, I'm Zoreslav, and I'm an iOS app developer with over a decade of experience building and shipping top quality mobile apps. 
+Before making mobile app development my speciality, I've been involved in game development, [consumer 3D tech](https://www.crunchbase.com/organization/mydeco), full stack web development, and at some point led a software team responsible for creating [Interpol e-Passport](https://en.wikipedia.org/wiki/Interpol_Travel_Document) manufacturing software.
 
-Before making iOS app development my speciality, I've been involved in game development, [consumer 3D tech](https://www.crunchbase.com/organization/mydeco), full stack web development, and at some point led a development team responsible for creating [Interpol e-Passport](https://en.wikipedia.org/wiki/Interpol_Travel_Document) manufacturing software.
+Lately I've been using **Swift** and **SwiftUI** most of the time, and I certainly enjoy having modern **Swift concurrency** and **Combine** at hand. However, the majority of the apps I worked on before, were made with **UIKit**, **Foundation** and **GCD**. I think that the best app architecture is the one all team members fully understand and are able to consistently utilize. That being said, in my opinion [Clean Architecture](https://nalexn.github.io/clean-architecture-swiftui/) and [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) are rightfully becoming the industry standards of today.
+
+I tend to prioritize the end user experience over development speed or code elegance, both of which I deem highly valuable nonetheless. I believe in apps that [make our hearts sing](https://daringfireball.net/2023/02/making_our_hearts_sing).
+
+</section><section>
 
 #### Previous Projects
-Since 2012 I worked on over a dozen **iOS** apps, some of which are listed below.
+Since 2012 I worked on over a dozen iOS, iPadOS and watchOS apps, some of which are listed below.
 
 {% include projects.html %}
 
+</section>
+
 Donec sagittis vel enim sit amet ultrices. Nulla nec egestas ex. Nunc posuere ipsum eu pharetra eleifend. In lobortis hendrerit odio, sed fringilla magna mattis tempus. Vestibulum nec tristique nisl. Sed in augue rhoncus, imperdiet sem eget, maximus orci. In non dolor rhoncus, suscipit purus eget, molestie mauris.
+
