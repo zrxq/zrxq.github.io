@@ -6,11 +6,12 @@
     {% for project in site.data.projects %}
     <div class="card">
       <img class="appicon{% if project.border %} bordered{% endif %}" src="{{ project.pic }}" />
-      <div>
         <h4 style="display: inline-block;">{{ project.name }}</h4>
         <small>{{ project.desc | markdownify }}</small>
-        {% if project.accolades %}<div class="accolades"><small>{{ project.accolades | markdownify }}</small></div>{% endif %}
-      </div>
+        {% if project.accolades %}
+        <div class="spacer"></div>
+        <div><div class="accolades"><small>{{ project.accolades | markdownify }}</small></div></div>
+        {% endif %}
     </div>
     {% endfor %}
   </div>
