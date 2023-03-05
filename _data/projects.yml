@@ -6,7 +6,7 @@
     health & fitness mobile app. 
 
 
-    Working as a contract iOS developer I helped to build several app features, mostly related to the app UI and workout audio guidance.
+    As a contract iOS developer, I helped to build several app features, mostly related to the app UI and workout audio guidance.
   accolades: Over 50 million users<br />(acc. to the app)
 
 - name: Leam • Voices
@@ -16,7 +16,7 @@
     Voices [was](https://leam.xyz) a live video streaming platform that allowed creators to monetize their work.
 
 
-    I built a [stream](https://getstream.io)-powered in-app chat with a highly customized UI, using **SwiftUI** and **Combine**. 
+    I built a [stream](https://getstream.io)-powered in-app chat with a highly customized UI using **SwiftUI** and **Combine**. 
     I also created several custom transitions for the app.
 
 - name: Seeking Alpha
@@ -24,10 +24,10 @@
   pic: img/projects/seekingalpha@2x.png
   desc: >-
     I was responsible for 
-    a complete rewrite of [Seeking Alpha iOS app](https://apps.apple.com/us/app/seeking-alpha-news-analysis/id552799694).
-    I also worked on a team that designed multiplatform web-to-native bridging APIs, as well as developed a companion 
-    **watchOS app** and Home Screen **widgets**. Rolling out the new app led to significant improvements in user feedback, 
-    reviews & ratings. 
+    a complete rewrite of the [iOS app](https://apps.apple.com/us/app/seeking-alpha-news-analysis/id552799694).
+    I also worked on a team that designed multiplatform web-to-native bridging APIs. Additionally, I created a companion 
+    **watchOS app** and Home Screen **widgets**. Rolling out the new app significantly improved user feedback, 
+    reviews, and App Store rankings.
   accolades: Peaked No.1 in Finance<br />in the US App Store
 
 - name: Kasta
@@ -35,11 +35,11 @@
   pic: img/projects/kasta@2x.png
   border: true
   desc: >-
-    As a mobile development lead I was involved in all decisions 
-    concering mobile apps, including feature planning, product & UI design, app development, QA, and app delivery. 
-    Lead a team of six mobile developers. 
+    As a mobile development lead, I was involved in all decisions 
+    concerning mobile apps, including feature planning, product & UI design, app development, QA, and app delivery. 
+    Led a team of six mobile developers. 
     I also developed the data-driven component foundation of the [iOS app](https://apps.apple.com/ua/app/kasta-покупки-одяг-та-взуття/id547622923).
-    During my time in Kasta, the company significantly strengthened its standing on the mobile market.
+    During my time in Kasta, the company significantly strengthened its mobile market standing.
   accolades: Achieved No.1 in Shopping<br />in Ukrainian App Store
 
 - name: Coins
@@ -50,7 +50,8 @@
     Their mobile wallet empowers customers and small businesses by providing direct access to financial services.
 
 
-    I programmed the [iOS crypto wallet app](https://apps.apple.com/ph/app/coins-buy-bitcoin-crypto/id972324049) from scratch.
+    I programmed the original [iOS crypto wallet](https://apps.apple.com/ph/app/coins-buy-bitcoin-crypto/id972324049) 
+    from the ground up.
 
 
   accolades: Reached Top 3 in Finance<br />in the Philippines
@@ -59,11 +60,11 @@
   pic: img/projects/gipis@2x.png  
   border: true
   desc: >-
-    Gipis [was](https://www.crunchbase.com/organization/gipis) a highly popular marathon running iOS app. 
-    It allowed to create and execute a personalized and adaptable training plan for runners.
+    Gipis [was](https://www.crunchbase.com/organization/gipis) a popular marathon-running coach iOS app. 
+    It created and helped the user to execute personalized and adaptable training plans.
 
 
-    I worked on a major UI revamp for the app, as well as on improving its core functionality.
+    I worked on a total UI revamp for the app, as well as on improving its core functionality.
   accolades: Peaked No.1 in Sports<br />in the US App Store
 
 
@@ -74,7 +75,7 @@
     Lapka was a hardware startup that built connected personal sensor devices.
 
 
-    I developed several features for their iOS apps, namely geolocation and social feature for the Personal Environment Monitor and a GPU-accelerated video stream filter for the Blood Alcohol Monitor.
+    I developed several features for their iOS apps, namely the geolocation and social functionality for the Personal Environment Monitor and a GPU-accelerated video stream filter for the Blood Alcohol Monitor.
 
 
     In 2015 Lapka was [acquired by Airbnb](https://www.theverge.com/2015/9/29/9419387/airbnb-lapka-acquisition).
@@ -87,7 +88,7 @@
     with the global Riders community.
 
 
-    Working as a freelance iOS developer, I helped to build
+    Working as a freelance iOS developer, I built
     several features for the [iOS app](https://apps.apple.com/us/app/riders-bmx-skateboard-snowboard/id474209047).
   # accolades: Featured on the App Store
     
