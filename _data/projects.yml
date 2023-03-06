@@ -42,9 +42,10 @@
     During my time in Kasta, the company significantly strengthened its mobile market standing.
   accolades: Achieved No.1 in Shopping<br />in Ukrainian App Store
 
-- name: Coins
+- name: Coins Wallet
   url: https://itunes.apple.com/ph/app/coins-ph-load-bills-bitcoin/id972324049?mt=8
   pic: img/projects/coins-wallet@2x.png
+  border: true
   desc: >-
     [Coins](https://coins.ph) is one of the most popular crypto brands in South-East Asia.  
     Their mobile wallet empowers customers and small businesses by providing direct access to financial services.
@@ -56,7 +57,7 @@
 
   accolades: Reached Top 3 in Finance<br />in the Philippines
 
-- name: Gipis
+- name: Gipis Coach
   pic: img/projects/gipis@2x.png  
   border: true
   desc: >-
