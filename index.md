@@ -22,7 +22,7 @@ My interest in mobile app development originates from my belief in better life t
 
 #### Previous Projects
 
-Since 2012 I have worked on **over fifteen** published iOS, iPadOS and watchOS apps, some of which are listed below.
+Since 2012 I have worked on over fifteen published iOS, iPadOS and watchOS apps, some of which are listed below.
 
 {% include projects.html %}
 
