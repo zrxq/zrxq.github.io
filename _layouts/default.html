@@ -17,10 +17,10 @@
 	<link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png" />
 	<link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
 
-	<title>{{ page.title }}</title>
+	<title>{{ page.title }}{% if page.subtitle %} • {{ page.subtitle }}{% endif %}</title>
 	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 
- 	<meta property="og:title" content="{{ page.title }}"/>
+ 	<meta property="og:title" content="{{ page.title }}{% if page.subtitle %} • {{ page.subtitle }}{% endif %}"/>
     <meta property="og:site_name" content="{{ site.title }}"/>
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"/>
     <meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}"/>
